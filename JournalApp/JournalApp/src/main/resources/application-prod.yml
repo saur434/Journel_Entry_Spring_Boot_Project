@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://dhandesaurabh2002:p8hf2Fygmsh5iJni@cluster0.tkppbz1.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database: journeldb
+      auto-index-creation: true
+
+
+
+server:
+  port: 8081
